@@ -1,73 +1,63 @@
-# Welcome to your Lovable project
+# 🚨 AI Safety Incident Dashboard
 
-## Project info
+An interactive and responsive dashboard built with **HTML**, **CSS**, and **TypeScript** to manage and display AI safety incidents in a simple, user-friendly interface.
 
-**URL**: https://lovable.dev/projects/9af46fa0-d032-4d11-89b6-d63eb6f93107
+---
 
-## How can I edit this code?
+## ✨ Features
 
-There are several ways of editing your application.
+- 📋 **List View**: Display AI safety incidents with Title, Severity (Low/Medium/High), and Reported Date.
+- 🎛️ **Filter by Severity**: Quickly filter incidents based on their severity.
+- 🔃 **Sort by Date**: Sort incidents by Reported Date (Newest First or Oldest First).
+- 🔎 **View Details Toggle**: Expand or collapse the full description of each incident.
+- ➕ **Report New Incident**: Submit new incidents through a form with basic input validation.
+- 💻 **Responsive Design**: Built with Flexbox/Grid for smooth experience across all devices.
+- ✨ **Clean Styling**: Simple, attractive layout with hover effects for better interaction.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9af46fa0-d032-4d11-89b6-d63eb6f93107) and start prompting.
+## 🛠️ Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+- **HTML5**
+- **CSS3**
+- **TypeScript**
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📄 Project Purpose
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+This project was developed to practice and showcase frontend skills such as:
+- Dynamic list rendering
+- Filtering, sorting, and managing UI state
+- Form handling and validation
+- Responsive and user-centered design
 
-Follow these steps:
+It simulates real-world AI safety incident tracking and reporting.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 📦 Installation
 
-# Step 3: Install the necessary dependencies.
-npm i
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ai-safety-incident-dashboard.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd ai-safety-incident-dashboard
+   ```
+3. Open `index.html` directly in your browser or use a live server extension (like VS Code's Live Server).
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/76fc83e3-11a8-49d2-96f4-c91f115df902)
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+![image](https://github.com/user-attachments/assets/05c10213-c3bf-4391-b9aa-a5dfebff47da)
 
-**Use GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+# 🚀 Live Demo
 
-This project is built with:
+*(If you deploy it anywhere like GitHub Pages, Netlify, or Vercel, you can add the link here!)*
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/9af46fa0-d032-4d11-89b6-d63eb6f93107) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
