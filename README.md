@@ -57,7 +57,4 @@ It simulates real-world AI safety incident tracking and reporting.
 
 
 
-# 🚀 Live Demo
-
-[*(If you deploy it anywhere like GitHub Pages, Netlify, or Vercel, you can add the link here!)*](https://ai-risk-dashboard.netlify.app/)
 
